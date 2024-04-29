@@ -18,6 +18,13 @@ A simple CRUD application for managing medications in a pharmacy.
 - **Styling**: CSS (Material-UI for components)
 - **Deployment**: [Heroku](https://www.heroku.com/) (for demo purposes)
 
+## Screenshots
+
+![Screenshot 1](https://i.postimg.cc/W49D59Zf/image.png)
+![Screenshot 2](https://i.postimg.cc/NFX5fBzW/image2.png)
+![Screenshot 3](https://i.postimg.cc/LXnJwzB4/image3.png)
+![Screenshot 4](https://i.postimg.cc/LXwJpnNt/image4.png)
+
 ## Getting Started
 
 1. Clone this repository:
@@ -72,12 +79,5 @@ A simple CRUD application for managing medications in a pharmacy.
 
 8. Access the application in your browser at `http://localhost:3000`.
 
-[url=https://postimg.cc/kVbX4vfx][img]https://i.postimg.cc/kVbX4vfx/image.png[/img][/url]
-
-[url=https://postimg.cc/gLYYgFdD][img]https://i.postimg.cc/gLYYgFdD/image2.png[/img][/url]
-
-[url=https://postimg.cc/Hc1W78hF][img]https://i.postimg.cc/Hc1W78hF/image3.png[/img][/url]
-
-[url=https://postimg.cc/8JdpdP8c][img]https://i.postimg.cc/8JdpdP8c/image4.png[/img][/url]
 
 
