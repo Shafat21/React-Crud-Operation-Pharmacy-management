@@ -71,3 +71,13 @@ A simple CRUD application for managing medications in a pharmacy.
    ```
 
 8. Access the application in your browser at `http://localhost:3000`.
+
+[url=https://postimg.cc/kVbX4vfx][img]https://i.postimg.cc/kVbX4vfx/image.png[/img][/url]
+
+[url=https://postimg.cc/gLYYgFdD][img]https://i.postimg.cc/gLYYgFdD/image2.png[/img][/url]
+
+[url=https://postimg.cc/Hc1W78hF][img]https://i.postimg.cc/Hc1W78hF/image3.png[/img][/url]
+
+[url=https://postimg.cc/8JdpdP8c][img]https://i.postimg.cc/8JdpdP8c/image4.png[/img][/url]
+
+
